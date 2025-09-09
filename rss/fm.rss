@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Mon, 08 Sep 2025 16:18:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Sep 2025 08:18:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Weapons (2025)</title>
+		<link>http://free-movies.to/movies/weapons-2025/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Tue, 09 Sep 2025 05:00:33 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[Horror]]></category>
+		<category><![CDATA[Mystery]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://free-movies.to/?p=55897</guid>
+
+					<description><![CDATA[R &#124; 2h 8min &#124; Horror, Mystery When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>The Walking Dead: Daryl Dixon (2023)</title>
 		<link>http://free-movies.to/tv-show/the-walking-dead-daryl-dixon-2023/</link>
 		
@@ -199,26 +217,6 @@
 		<guid isPermaLink="false">http://free-movies.to/?p=55860</guid>
 
 					<description><![CDATA[R &#124; 1h 26min &#124; Action, Crime, Sci-Fi, Thriller In a dystopian future, Joseph Dredd, the most famous Judge (a police officer with instant field judiciary powers), is convicted for a crime he did&#46;&#46;&#46;]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Invasion (2021)</title>
-		<link>http://free-movies.to/tv-show/invasion-2021/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Sat, 06 Sep 2025 07:00:15 +0000</pubDate>
-				<category><![CDATA[TV-show]]></category>
-		<category><![CDATA[apple]]></category>
-		<category><![CDATA[Drama]]></category>
-		<category><![CDATA[Fantasy]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Sci-Fi]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">https://free-movies.to/?p=37900</guid>
-
-					<description><![CDATA[TV-MA &#124; Drama, Fantasy, Sci-Fi Earth is visited by an alien species that threatens humanity&#8217;s existence. Events unfold in real time through the eyes of five ordinary people across the globe as they struggle&#46;&#46;&#46;]]></description>
 		
 		
 		
