@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Thu, 11 Sep 2025 20:56:59 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 11 Sep 2025 23:41:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Lethal Weapon (1987)</title>
+		<link>http://free-movies.to/movies/lethal-weapon-1987/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Thu, 11 Sep 2025 06:00:01 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<category><![CDATA[Action]]></category>
+		<category><![CDATA[Crime]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[Thriller]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://free-movies.to/?p=55912</guid>
+
+					<description><![CDATA[R &#124; 1h 49min &#124; Action, Crime, Thriller Two newly paired cops who are complete opposites must put aside their differences in order to catch a gang of drug smugglers.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Le Samouraï (1967)</title>
 		<link>http://free-movies.to/movies/le-samourai-1967/</link>
 		
@@ -197,25 +216,6 @@
 		<guid isPermaLink="false">http://free-movies.to/?p=55882</guid>
 
 					<description><![CDATA[PG-13 &#124; 2h 3min &#124; Action, Mystery, Sci-Fi, Thriller A man meets a clone of himself and stumbles into a grand conspiracy about clones taking over the world.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The Rainmaker (2025)</title>
-		<link>http://free-movies.to/tv-show/the-rainmaker-2025/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Sun, 07 Sep 2025 06:00:22 +0000</pubDate>
-				<category><![CDATA[TV-show]]></category>
-		<category><![CDATA[Crime]]></category>
-		<category><![CDATA[Drama]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Thriller]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://free-movies.to/?p=55607</guid>
-
-					<description><![CDATA[Crime, Drama, Thriller Based on the 1995 novel by John Grisham, the series follows a young lawyer who finds himself trapped by the dangerous firm that has hired him.]]></description>
 		
 		
 		
