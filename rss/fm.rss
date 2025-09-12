@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Thu, 11 Sep 2025 23:41:09 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 12 Sep 2025 06:57:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Fright Night (2011)</title>
+		<link>http://free-movies.to/movies/fright-night-2011/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Fri, 12 Sep 2025 05:00:50 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<category><![CDATA[Comedy]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[Horror]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">https://impaled.ws/?p=33577</guid>
+
+					<description><![CDATA[R &#124; 1h 46min &#124; Action, Comedy, Drama, Horror, Mystery When a new neighbor moves in next door, a young man discovers that he is an ancient vampire who preys on the community.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Lethal Weapon (1987)</title>
 		<link>http://free-movies.to/movies/lethal-weapon-1987/</link>
 		
@@ -196,26 +214,6 @@
 		<guid isPermaLink="false">https://free-movies.to/?p=44814</guid>
 
 					<description><![CDATA[R &#124; 2h 5min &#124; Horror, Mystery Rose Da Silva takes her adopted daughter, Sharon, to the town of Silent Hill in an attempt to cure her of her ailment. After a violent car&#46;&#46;&#46;]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The 6th Day (2000)</title>
-		<link>http://free-movies.to/movies/the-6th-day-2000/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Mon, 08 Sep 2025 05:00:37 +0000</pubDate>
-				<category><![CDATA[Movies]]></category>
-		<category><![CDATA[Action]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Mystery]]></category>
-		<category><![CDATA[Sci-Fi]]></category>
-		<category><![CDATA[Thriller]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://free-movies.to/?p=55882</guid>
-
-					<description><![CDATA[PG-13 &#124; 2h 3min &#124; Action, Mystery, Sci-Fi, Thriller A man meets a clone of himself and stumbles into a grand conspiracy about clones taking over the world.]]></description>
 		
 		
 		
