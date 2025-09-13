@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Sat, 13 Sep 2025 08:40:57 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 13 Sep 2025 11:23:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Lethal Weapon 3 (1992)</title>
+		<link>http://free-movies.to/movies/lethal-weapon-3-1992/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Sat, 13 Sep 2025 06:00:55 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<category><![CDATA[Action]]></category>
+		<category><![CDATA[Crime]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[Thriller]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://free-movies.to/?p=55934</guid>
+
+					<description><![CDATA[R &#124; 1h 58min &#124; Action, Crime, Thriller Martin Riggs and Roger Murtaugh pursue a former LAPD officer who uses his knowledge of police procedure and policies to steal and sell confiscated guns and&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Lethal Weapon 2 (1989)</title>
 		<link>http://free-movies.to/movies/lethal-weapon-2-1989/</link>
 		
@@ -196,24 +215,6 @@
 		<guid isPermaLink="false">http://free-movies.to/?p=55544</guid>
 
 					<description><![CDATA[TV-MA &#124; Horror, Sci-Fi, Thriller When a mysterious space vessel crash-lands on Earth, a young woman and a ragtag group of tactical soldiers make a fateful discovery that puts them face-to-face with the planet&#8217;s&#46;&#46;&#46;]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Weapons (2025)</title>
-		<link>http://free-movies.to/movies/weapons-2025/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Tue, 09 Sep 2025 05:00:33 +0000</pubDate>
-				<category><![CDATA[Movies]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Horror]]></category>
-		<category><![CDATA[Mystery]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://free-movies.to/?p=55897</guid>
-
-					<description><![CDATA[R &#124; 2h 8min &#124; Horror, Mystery When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or&#46;&#46;&#46;]]></description>
 		
 		
 		
