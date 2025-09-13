@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Fri, 12 Sep 2025 07:55:53 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 13 Sep 2025 08:40:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Lethal Weapon 2 (1989)</title>
+		<link>http://free-movies.to/movies/lethal-weapon-2-1989/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Sat, 13 Sep 2025 05:00:42 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<category><![CDATA[Action]]></category>
+		<category><![CDATA[Crime]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[Thriller]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://free-movies.to/?p=55928</guid>
+
+					<description><![CDATA[R &#124; 1h 54min &#124; Action, Crime, Thriller Riggs and Murtaugh are on the trail of South African diplomats who are using their immunity to engage in criminal activities.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Invasion (2021)</title>
 		<link>http://free-movies.to/tv-show/invasion-2021/</link>
 		
@@ -195,25 +214,6 @@
 		<guid isPermaLink="false">http://free-movies.to/?p=55897</guid>
 
 					<description><![CDATA[R &#124; 2h 8min &#124; Horror, Mystery When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or&#46;&#46;&#46;]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The Walking Dead: Daryl Dixon (2023)</title>
-		<link>http://free-movies.to/tv-show/the-walking-dead-daryl-dixon-2023/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Mon, 08 Sep 2025 08:00:40 +0000</pubDate>
-				<category><![CDATA[TV-show]]></category>
-		<category><![CDATA[amc]]></category>
-		<category><![CDATA[Drama]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Horror]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">https://free-movies.to/?p=47768</guid>
-
-					<description><![CDATA[Drama, Horror Daryl&#8217;s journey across a broken but resilient France as he hopes to find a way back home.]]></description>
 		
 		
 		
