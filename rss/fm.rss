@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Sat, 13 Sep 2025 11:23:19 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 13 Sep 2025 13:36:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Shooter (2007)</title>
+		<link>http://free-movies.to/movies/shooter-2007/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Sat, 13 Sep 2025 07:00:36 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<category><![CDATA[Action]]></category>
+		<category><![CDATA[Crime]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[Thriller]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://impaled.ws/?p=11982</guid>
+
+					<description><![CDATA[R &#124; 2h 4min &#124; Action, Drama, Thriller An expert marksman living in exile, is coaxed back into action after learning of a plot to kill the president. Now on the run after being&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Lethal Weapon 3 (1992)</title>
 		<link>http://free-movies.to/movies/lethal-weapon-3-1992/</link>
 		
@@ -194,27 +214,6 @@
 		<guid isPermaLink="false">http://free-movies.to/?p=55904</guid>
 
 					<description><![CDATA[PG-13 &#124; 2h 7min &#124; Action, Adventure, Sci-Fi The brash James T. Kirk tries to live up to his father&#8217;s legacy with Mr. Spock keeping him in check as a vengeful Romulan from the&#46;&#46;&#46;]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Alien: Earth (2025)</title>
-		<link>http://free-movies.to/tv-show/alien-earth-2025/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Wed, 10 Sep 2025 05:00:38 +0000</pubDate>
-				<category><![CDATA[TV-show]]></category>
-		<category><![CDATA[fx]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Horror]]></category>
-		<category><![CDATA[hulu]]></category>
-		<category><![CDATA[Sci-Fi]]></category>
-		<category><![CDATA[Thriller]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://free-movies.to/?p=55544</guid>
-
-					<description><![CDATA[TV-MA &#124; Horror, Sci-Fi, Thriller When a mysterious space vessel crash-lands on Earth, a young woman and a ragtag group of tactical soldiers make a fateful discovery that puts them face-to-face with the planet&#8217;s&#46;&#46;&#46;]]></description>
 		
 		
 		
