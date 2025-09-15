@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Sun, 14 Sep 2025 18:24:59 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 15 Sep 2025 14:37:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The Walking Dead: Daryl Dixon (2023)</title>
+		<link>http://free-movies.to/tv-show/the-walking-dead-daryl-dixon-2023/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Mon, 15 Sep 2025 05:00:40 +0000</pubDate>
+				<category><![CDATA[TV-show]]></category>
+		<category><![CDATA[amc]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[Horror]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">https://free-movies.to/?p=47768</guid>
+
+					<description><![CDATA[Drama, Horror Daryl&#8217;s journey across a broken but resilient France as he hopes to find a way back home.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>The Rainmaker (2025)</title>
 		<link>http://free-movies.to/tv-show/the-rainmaker-2025/</link>
 		
@@ -195,24 +214,6 @@
 		<guid isPermaLink="false">https://free-movies.to/?p=37314</guid>
 
 					<description><![CDATA[TV-14 &#124; 1h &#124; Drama, Sci-Fi A complex saga of humans scattered on planets throughout the galaxy all living under the rule of the Galactic Empire.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fright Night (2011)</title>
-		<link>http://free-movies.to/movies/fright-night-2011/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Fri, 12 Sep 2025 05:00:50 +0000</pubDate>
-				<category><![CDATA[Movies]]></category>
-		<category><![CDATA[Comedy]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Horror]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">https://impaled.ws/?p=33577</guid>
-
-					<description><![CDATA[R &#124; 1h 46min &#124; Action, Comedy, Drama, Horror, Mystery When a new neighbor moves in next door, a young man discovers that he is an ancient vampire who preys on the community.]]></description>
 		
 		
 		
