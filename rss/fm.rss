@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Mon, 15 Sep 2025 14:37:04 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 15 Sep 2025 15:55:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Despicable Me (2010)</title>
+		<link>http://free-movies.to/animation/despicable-me-2010/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Mon, 15 Sep 2025 06:00:25 +0000</pubDate>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[Comedy]]></category>
+		<category><![CDATA[Crime]]></category>
+		<category><![CDATA[Family]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://impaled.ws/?p=32304</guid>
+
+					<description><![CDATA[PG &#124; 1h 35min &#124; Adventure, Animation, Comedy, Crime, Family Gru, a criminal mastermind, adopts three orphans as pawns to carry out the biggest heist in history. His life takes an unexpected turn when&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>The Walking Dead: Daryl Dixon (2023)</title>
 		<link>http://free-movies.to/tv-show/the-walking-dead-daryl-dixon-2023/</link>
 		
@@ -195,25 +216,6 @@
 		<guid isPermaLink="false">https://free-movies.to/?p=37900</guid>
 
 					<description><![CDATA[TV-MA &#124; Drama, Fantasy, Sci-Fi Earth is visited by an alien species that threatens humanity&#8217;s existence. Events unfold in real time through the eyes of five ordinary people across the globe as they struggle&#46;&#46;&#46;]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Foundation (2021)</title>
-		<link>http://free-movies.to/tv-show/foundation-2021/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Fri, 12 Sep 2025 06:00:41 +0000</pubDate>
-				<category><![CDATA[TV-show]]></category>
-		<category><![CDATA[apple]]></category>
-		<category><![CDATA[Drama]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Sci-Fi]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">https://free-movies.to/?p=37314</guid>
-
-					<description><![CDATA[TV-14 &#124; 1h &#124; Drama, Sci-Fi A complex saga of humans scattered on planets throughout the galaxy all living under the rule of the Galactic Empire.]]></description>
 		
 		
 		
