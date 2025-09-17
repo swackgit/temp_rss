@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Wed, 17 Sep 2025 19:31:07 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 17 Sep 2025 20:38:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The Terminal List: Dark Wolf (2025)</title>
+		<link>http://free-movies.to/tv-show/the-terminal-list-dark-wolf-2025/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2025 07:00:39 +0000</pubDate>
+				<category><![CDATA[TV-show]]></category>
+		<category><![CDATA[Action]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[Thriller]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://free-movies.to/?p=55798</guid>
+
+					<description><![CDATA[TV-MA &#124; 1h &#124; Action, Drama, Thriller Before joining THE TERMINAL LIST, Navy SEAL Ben Edwards works CIA black ops. As he delves deeper into moral gray areas, he struggles between light and dark&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Alien: Earth (2025)</title>
 		<link>http://free-movies.to/tv-show/alien-earth-2025/</link>
 		
@@ -198,25 +217,6 @@
 		<guid isPermaLink="false">http://impaled.ws/?p=24234</guid>
 
 					<description><![CDATA[PG-13 &#124; 1h 57min &#124; Action, Sci-Fi, Thriller An over-the-hill hitman faces off against a younger clone of himself.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Lethal Weapon 4 (1998)</title>
-		<link>http://free-movies.to/movies/lethal-weapon-4-1998/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Sat, 13 Sep 2025 09:00:50 +0000</pubDate>
-				<category><![CDATA[Movies]]></category>
-		<category><![CDATA[Action]]></category>
-		<category><![CDATA[Crime]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Thriller]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://free-movies.to/?p=55946</guid>
-
-					<description><![CDATA[R &#124; 2h 7min &#124; Action, Crime, Thriller With personal crises and age weighing in on them, LAPD officers Riggs and Murtaugh must contend with deadly Chinese triads that are trying to free their&#46;&#46;&#46;]]></description>
 		
 		
 		
