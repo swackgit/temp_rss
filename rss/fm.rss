@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Fri, 19 Sep 2025 21:48:05 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 20 Sep 2025 13:01:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Shrek (2001)</title>
+		<link>http://free-movies.to/animation/shrek-2001/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Sat, 20 Sep 2025 05:00:11 +0000</pubDate>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[Comedy]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://free-movies.to/?p=55993</guid>
+
+					<description><![CDATA[PG &#124; 1h 30min &#124; Comedy, Animation A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Invasion (2021)</title>
 		<link>http://free-movies.to/tv-show/invasion-2021/</link>
 		
@@ -199,25 +217,6 @@
 		<guid isPermaLink="false">https://free-movies.to/?p=47768</guid>
 
 					<description><![CDATA[Drama, Horror Daryl&#8217;s journey across a broken but resilient France as he hopes to find a way back home.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The Rainmaker (2025)</title>
-		<link>http://free-movies.to/tv-show/the-rainmaker-2025/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Sun, 14 Sep 2025 05:00:22 +0000</pubDate>
-				<category><![CDATA[TV-show]]></category>
-		<category><![CDATA[Crime]]></category>
-		<category><![CDATA[Drama]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Thriller]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://free-movies.to/?p=55607</guid>
-
-					<description><![CDATA[Crime, Drama, Thriller Based on the 1995 novel by John Grisham, the series follows a young lawyer who finds himself trapped by the dangerous firm that has hired him.]]></description>
 		
 		
 		
