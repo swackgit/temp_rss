@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Sat, 20 Sep 2025 21:53:22 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 20 Sep 2025 22:34:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,28 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Shrek the Third (2007)</title>
+		<link>http://free-movies.to/animation/shrek-the-third-2007/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Sat, 20 Sep 2025 22:00:48 +0000</pubDate>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[Comedy]]></category>
+		<category><![CDATA[Family]]></category>
+		<category><![CDATA[Fantasy]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[romance]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://free-movies.to/?p=56007</guid>
+
+					<description><![CDATA[PG &#124; 1h 33min &#124; Adventure, Animation, Comedy, Family, Fantasy, Romance Reluctantly designated as the heir to the land of Far, Far Away, Shrek hatches a plan to install the rebellious Artie as the&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Shrek 2 (2004)</title>
 		<link>http://free-movies.to/animation/shrek-2-2004/</link>
 		
@@ -194,24 +216,6 @@
 		<guid isPermaLink="false">http://free-movies.to/?p=55978</guid>
 
 					<description><![CDATA[R &#124; 1h 36min &#124; Thriller Nick Bianco sets out to reunite with the love of his life after serving a year in jail for assault, only to discover that she has a new&#46;&#46;&#46;]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Despicable Me 2 (2013)</title>
-		<link>http://free-movies.to/animation/despicable-me-2-2013/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Tue, 16 Sep 2025 05:00:54 +0000</pubDate>
-				<category><![CDATA[Animation]]></category>
-		<category><![CDATA[animation]]></category>
-		<category><![CDATA[Comedy]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://impaled.ws/?p=32378</guid>
-
-					<description><![CDATA[PG &#124; 1h 38min &#124; Animation, Adventure, Comedy When a new criminal comes to town, the Anti-Villain League decides to hire Gru in order to fight him off. While Gru initially refuses, he eventually&#46;&#46;&#46;]]></description>
 		
 		
 		
