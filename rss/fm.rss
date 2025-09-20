@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Sat, 20 Sep 2025 21:29:13 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 20 Sep 2025 21:53:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Shrek 2 (2004)</title>
+		<link>http://free-movies.to/animation/shrek-2-2004/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Sat, 20 Sep 2025 08:00:51 +0000</pubDate>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://free-movies.to/?p=56002</guid>
+
+					<description><![CDATA[PG &#124; 1h 33min &#124; Adventure, Animation Shrek and Fiona travel to the Kingdom of Far Far Away, where Fiona&#8217;s parents are King and Queen, to celebrate their marriage. When they arrive, they find&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Ancient Aliens (2009)</title>
 		<link>http://free-movies.to/tv-show/ancient-aliens-2009/</link>
 		
@@ -194,28 +212,6 @@
 		<guid isPermaLink="false">http://impaled.ws/?p=32378</guid>
 
 					<description><![CDATA[PG &#124; 1h 38min &#124; Animation, Adventure, Comedy When a new criminal comes to town, the Anti-Villain League decides to hire Gru in order to fight him off. While Gru initially refuses, he eventually&#46;&#46;&#46;]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Annihilation (2018)</title>
-		<link>http://free-movies.to/movies/annihilation-2018/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Mon, 15 Sep 2025 07:00:04 +0000</pubDate>
-				<category><![CDATA[Movies]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Drama]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Horror]]></category>
-		<category><![CDATA[Mystery]]></category>
-		<category><![CDATA[Sci-Fi]]></category>
-		<category><![CDATA[Thriller]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://impaled.ws/?p=6714</guid>
-
-					<description><![CDATA[R &#124; 1h 55min &#124; Adventure, Drama, Horror, Mystery, Sci-Fi, Thriller A biologist signs up for a dangerous, secret expedition where the laws of nature don&#8217;t apply.]]></description>
 		
 		
 		
