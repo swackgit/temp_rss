@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Sat, 20 Sep 2025 16:54:27 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 20 Sep 2025 21:29:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Ancient Aliens (2009)</title>
+		<link>http://free-movies.to/tv-show/ancient-aliens-2009/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Sat, 20 Sep 2025 07:00:36 +0000</pubDate>
+				<category><![CDATA[TV-show]]></category>
+		<category><![CDATA[documentary]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[Sci-Fi]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://impaled.ws/?p=9492</guid>
+
+					<description><![CDATA[TV-PG &#124; 42min &#124; Documentary, History, Sci-Fi Science and mythology &#8211; and how they are the same thing. Previous Seasons &#160;]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Black Rabbit (2025)</title>
 		<link>http://free-movies.to/tv-show/black-rabbit-2025/</link>
 		
@@ -198,27 +216,6 @@
 		<guid isPermaLink="false">http://impaled.ws/?p=6714</guid>
 
 					<description><![CDATA[R &#124; 1h 55min &#124; Adventure, Drama, Horror, Mystery, Sci-Fi, Thriller A biologist signs up for a dangerous, secret expedition where the laws of nature don&#8217;t apply.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Despicable Me (2010)</title>
-		<link>http://free-movies.to/animation/despicable-me-2010/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Mon, 15 Sep 2025 06:00:25 +0000</pubDate>
-				<category><![CDATA[Animation]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[animation]]></category>
-		<category><![CDATA[Comedy]]></category>
-		<category><![CDATA[Crime]]></category>
-		<category><![CDATA[Family]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://impaled.ws/?p=32304</guid>
-
-					<description><![CDATA[PG &#124; 1h 35min &#124; Adventure, Animation, Comedy, Crime, Family Gru, a criminal mastermind, adopts three orphans as pawns to carry out the biggest heist in history. His life takes an unexpected turn when&#46;&#46;&#46;]]></description>
 		
 		
 		
