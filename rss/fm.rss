@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Sat, 20 Sep 2025 22:34:21 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 20 Sep 2025 23:25:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The Rainmaker (2025)</title>
+		<link>http://free-movies.to/tv-show/the-rainmaker-2025/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Sat, 20 Sep 2025 23:00:22 +0000</pubDate>
+				<category><![CDATA[TV-show]]></category>
+		<category><![CDATA[Crime]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[Thriller]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://free-movies.to/?p=55607</guid>
+
+					<description><![CDATA[Crime, Drama, Thriller Based on the 1995 novel by John Grisham, the series follows a young lawyer who finds himself trapped by the dangerous firm that has hired him.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Shrek the Third (2007)</title>
 		<link>http://free-movies.to/animation/shrek-the-third-2007/</link>
 		
@@ -199,23 +218,6 @@
 		<guid isPermaLink="false">http://impaled.ws/?p=32438</guid>
 
 					<description><![CDATA[PG &#124; 1h 29min &#124; Animation, Adventure, Comedy Gru meets his long-lost, charming, cheerful, and more successful twin brother Dru, who wants to team up with him for one last criminal heist.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Just Breathe (2025)</title>
-		<link>http://free-movies.to/movies/just-breathe-2025/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Tue, 16 Sep 2025 06:00:59 +0000</pubDate>
-				<category><![CDATA[Movies]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Thriller]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://free-movies.to/?p=55978</guid>
-
-					<description><![CDATA[R &#124; 1h 36min &#124; Thriller Nick Bianco sets out to reunite with the love of his life after serving a year in jail for assault, only to discover that she has a new&#46;&#46;&#46;]]></description>
 		
 		
 		
