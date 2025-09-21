@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Sun, 21 Sep 2025 19:55:00 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 21 Sep 2025 20:59:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Shrek Forever After (2010)</title>
+		<link>http://free-movies.to/animation/shrek-forever-after-2010/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Sun, 21 Sep 2025 07:00:17 +0000</pubDate>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://free-movies.to/?p=56022</guid>
+
+					<description><![CDATA[PG &#124; 1h 33min &#124; Adventure, Animation Rumpelstiltskin tricks a mid-life crisis burdened Shrek into allowing himself to be erased from existence and cast in a dark alternate timeline where Rumpelstiltskin rules supreme.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Brother Bear (2003)</title>
 		<link>http://free-movies.to/animation/brother-bear-2003/</link>
 		
@@ -201,25 +219,6 @@
 		<guid isPermaLink="false">https://free-movies.to/?p=37900</guid>
 
 					<description><![CDATA[TV-MA &#124; Drama, Fantasy, Sci-Fi Earth is visited by an alien species that threatens humanity&#8217;s existence. Events unfold in real time through the eyes of five ordinary people across the globe as they struggle&#46;&#46;&#46;]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The Terminal List: Dark Wolf (2025)</title>
-		<link>http://free-movies.to/tv-show/the-terminal-list-dark-wolf-2025/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Wed, 17 Sep 2025 07:00:39 +0000</pubDate>
-				<category><![CDATA[TV-show]]></category>
-		<category><![CDATA[Action]]></category>
-		<category><![CDATA[Drama]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Thriller]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://free-movies.to/?p=55798</guid>
-
-					<description><![CDATA[TV-MA &#124; 1h &#124; Action, Drama, Thriller Before joining THE TERMINAL LIST, Navy SEAL Ben Edwards works CIA black ops. As he delves deeper into moral gray areas, he struggles between light and dark&#46;&#46;&#46;]]></description>
 		
 		
 		
