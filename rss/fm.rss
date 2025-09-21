@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Sat, 20 Sep 2025 23:25:20 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 21 Sep 2025 09:47:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Tulsa King (2022)</title>
+		<link>http://free-movies.to/tv-show/tulsa-king-2022/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Sun, 21 Sep 2025 05:00:05 +0000</pubDate>
+				<category><![CDATA[TV-show]]></category>
+		<category><![CDATA[Crime]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[gangster]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[paramount]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">https://free-movies.to/?p=43980</guid>
+
+					<description><![CDATA[TV Series &#124; TV-MA &#124; Gangster, Crime, Drama Following his release from prison, mafia capo Dwight &#8220;The General&#8221; Manfredi is exiled to Tulsa, Oklahoma, where he builds a new criminal empire with a group&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>The Rainmaker (2025)</title>
 		<link>http://free-movies.to/tv-show/the-rainmaker-2025/</link>
 		
@@ -199,25 +219,6 @@
 		<guid isPermaLink="false">http://free-movies.to/?p=55544</guid>
 
 					<description><![CDATA[TV-MA &#124; Horror, Sci-Fi, Thriller When a mysterious space vessel crash-lands on Earth, a young woman and a ragtag group of tactical soldiers make a fateful discovery that puts them face-to-face with the planet&#8217;s&#46;&#46;&#46;]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Despicable Me 3 (2017)</title>
-		<link>http://free-movies.to/animation/despicable-me-3-2017/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Wed, 17 Sep 2025 05:00:51 +0000</pubDate>
-				<category><![CDATA[Animation]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[animation]]></category>
-		<category><![CDATA[Comedy]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://impaled.ws/?p=32438</guid>
-
-					<description><![CDATA[PG &#124; 1h 29min &#124; Animation, Adventure, Comedy Gru meets his long-lost, charming, cheerful, and more successful twin brother Dru, who wants to team up with him for one last criminal heist.]]></description>
 		
 		
 		
