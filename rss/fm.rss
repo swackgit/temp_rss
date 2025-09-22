@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Mon, 22 Sep 2025 21:22:01 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 22 Sep 2025 22:12:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The Fantastic Four: First Steps (2025)</title>
+		<link>http://free-movies.to/movies/the-fantastic-four-first-steps-2025/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Mon, 22 Sep 2025 22:00:08 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[Sci-Fi]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://free-movies.to/?p=56032</guid>
+
+					<description><![CDATA[PG-13 &#124; 1h 54min &#124; Action, Adventure, Sci-Fi Forced to balance their roles as heroes with the strength of their family bond, the Fantastic Four must defend Earth from a ravenous space god called&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>G.I. Joe: Retaliation (2013)</title>
 		<link>http://free-movies.to/movies/g-i-joe-retaliation-2013/</link>
 		
@@ -61,25 +80,6 @@
 		<guid isPermaLink="false">http://free-movies.to/?p=56038</guid>
 
 					<description><![CDATA[Original title: Sydney &#124; R &#124; 1h 41min &#124; Crime, Drama A stranger mentors a young, troubled Reno gambler.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The Fantastic Four: First Steps (2025)</title>
-		<link>http://free-movies.to/movies/the-fantastic-four-first-steps-2025/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Mon, 22 Sep 2025 05:00:08 +0000</pubDate>
-				<category><![CDATA[Movies]]></category>
-		<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Sci-Fi]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://free-movies.to/?p=56032</guid>
-
-					<description><![CDATA[PG-13 &#124; 1h 54min &#124; Action, Adventure, Sci-Fi Forced to balance their roles as heroes with the strength of their family bond, the Fantastic Four must defend Earth from a ravenous space god called&#46;&#46;&#46;]]></description>
 		
 		
 		
