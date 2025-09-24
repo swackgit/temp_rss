@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Tue, 23 Sep 2025 21:03:36 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 24 Sep 2025 19:29:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The Gunman (2015)</title>
+		<link>http://free-movies.to/movies/the-gunman-2015/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Wed, 24 Sep 2025 05:00:34 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<category><![CDATA[Action]]></category>
+		<category><![CDATA[Crime]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[Mystery]]></category>
+		<category><![CDATA[Thriller]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://free-movies.to/?p=56053</guid>
+
+					<description><![CDATA[R &#124; 1h 55min &#124; Action, Crime, Mystery, Thriller A sniper on a mercenary assassination team kills the minister of mines in the Democratic Republic of the Congo. His kill shot forces him into&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>The Cut (2024)</title>
 		<link>http://free-movies.to/movies/the-cut-2024/</link>
 		
@@ -198,24 +218,6 @@
 		<guid isPermaLink="false">http://free-movies.to/?p=56007</guid>
 
 					<description><![CDATA[PG &#124; 1h 33min &#124; Adventure, Animation, Comedy, Family, Fantasy, Romance Reluctantly designated as the heir to the land of Far, Far Away, Shrek hatches a plan to install the rebellious Artie as the&#46;&#46;&#46;]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Shrek 2 (2004)</title>
-		<link>http://free-movies.to/animation/shrek-2-2004/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Sat, 20 Sep 2025 08:00:51 +0000</pubDate>
-				<category><![CDATA[Animation]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[animation]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://free-movies.to/?p=56002</guid>
-
-					<description><![CDATA[PG &#124; 1h 33min &#124; Adventure, Animation Shrek and Fiona travel to the Kingdom of Far Far Away, where Fiona&#8217;s parents are King and Queen, to celebrate their marriage. When they arrive, they find&#46;&#46;&#46;]]></description>
 		
 		
 		
