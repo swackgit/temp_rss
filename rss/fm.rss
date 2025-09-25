@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Thu, 25 Sep 2025 20:19:05 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 25 Sep 2025 20:59:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The Walking Dead: Daryl Dixon (2023)</title>
+		<link>http://free-movies.to/tv-show/the-walking-dead-daryl-dixon-2023/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Thu, 25 Sep 2025 07:00:40 +0000</pubDate>
+				<category><![CDATA[TV-show]]></category>
+		<category><![CDATA[amc]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[Horror]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">https://free-movies.to/?p=47768</guid>
+
+					<description><![CDATA[Drama, Horror Daryl&#8217;s journey across a broken but resilient France as he hopes to find a way back home.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Brilliant Minds (2024)</title>
 		<link>http://free-movies.to/tv-show/brilliant-minds-2024/</link>
 		
@@ -194,24 +213,6 @@
 		<guid isPermaLink="false">http://free-movies.to/?p=56038</guid>
 
 					<description><![CDATA[Original title: Sydney &#124; R &#124; 1h 41min &#124; Crime, Drama A stranger mentors a young, troubled Reno gambler.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Shrek Forever After (2010)</title>
-		<link>http://free-movies.to/animation/shrek-forever-after-2010/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Sun, 21 Sep 2025 07:00:17 +0000</pubDate>
-				<category><![CDATA[Animation]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[animation]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://free-movies.to/?p=56022</guid>
-
-					<description><![CDATA[PG &#124; 1h 33min &#124; Adventure, Animation Rumpelstiltskin tricks a mid-life crisis burdened Shrek into allowing himself to be erased from existence and cast in a dark alternate timeline where Rumpelstiltskin rules supreme.]]></description>
 		
 		
 		
