@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Thu, 25 Sep 2025 19:37:22 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 25 Sep 2025 20:19:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Brilliant Minds (2024)</title>
+		<link>http://free-movies.to/tv-show/brilliant-minds-2024/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Thu, 25 Sep 2025 06:00:55 +0000</pubDate>
+				<category><![CDATA[TV-show]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[NBC]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">https://free-movies.to/?p=52696</guid>
+
+					<description><![CDATA[TV-14 &#124; Drama Dr. Oliver Wolf, a gifted neurologist, applies his unconventional approach to treating puzzling psychological cases.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>The New World (2005)</title>
 		<link>http://free-movies.to/movies/the-new-world-2005/</link>
 		
@@ -194,28 +212,6 @@
 		<guid isPermaLink="false">http://free-movies.to/?p=56022</guid>
 
 					<description><![CDATA[PG &#124; 1h 33min &#124; Adventure, Animation Rumpelstiltskin tricks a mid-life crisis burdened Shrek into allowing himself to be erased from existence and cast in a dark alternate timeline where Rumpelstiltskin rules supreme.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Brother Bear (2003)</title>
-		<link>http://free-movies.to/animation/brother-bear-2003/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Sun, 21 Sep 2025 06:00:13 +0000</pubDate>
-				<category><![CDATA[Animation]]></category>
-		<category><![CDATA[advenute]]></category>
-		<category><![CDATA[animation]]></category>
-		<category><![CDATA[Comedy]]></category>
-		<category><![CDATA[Family]]></category>
-		<category><![CDATA[Fantasy]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Musical]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://free-movies.to/?p=56010</guid>
-
-					<description><![CDATA[G &#124; 1h 25min &#124; Adventure, Animation, Comedy, Drama, Family, Fantasy, Musical When a young Inuit hunter needlessly kills a bear, he is magically changed into a bear himself as punishment with a talkative&#46;&#46;&#46;]]></description>
 		
 		
 		
