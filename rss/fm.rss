@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Wed, 24 Sep 2025 22:04:18 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 25 Sep 2025 19:37:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The New World (2005)</title>
+		<link>http://free-movies.to/movies/the-new-world-2005/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Thu, 25 Sep 2025 05:00:12 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<category><![CDATA[Biography]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">https://free-movies.to/?p=35812</guid>
+
+					<description><![CDATA[PG-13 &#124; 2h 15min &#124; Biography, Drama, History The story of the English exploration of Virginia, and of the changing world and loves of Pocahontas.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Alien: Earth (2025)</title>
 		<link>http://free-movies.to/tv-show/alien-earth-2025/</link>
 		
@@ -197,26 +216,6 @@
 		<guid isPermaLink="false">http://free-movies.to/?p=56010</guid>
 
 					<description><![CDATA[G &#124; 1h 25min &#124; Adventure, Animation, Comedy, Drama, Family, Fantasy, Musical When a young Inuit hunter needlessly kills a bear, he is magically changed into a bear himself as punishment with a talkative&#46;&#46;&#46;]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Tulsa King (2022)</title>
-		<link>http://free-movies.to/tv-show/tulsa-king-2022/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Sun, 21 Sep 2025 05:00:05 +0000</pubDate>
-				<category><![CDATA[TV-show]]></category>
-		<category><![CDATA[Crime]]></category>
-		<category><![CDATA[Drama]]></category>
-		<category><![CDATA[gangster]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[paramount]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">https://free-movies.to/?p=43980</guid>
-
-					<description><![CDATA[TV Series &#124; TV-MA &#124; Gangster, Crime, Drama Following his release from prison, mafia capo Dwight &#8220;The General&#8221; Manfredi is exiled to Tulsa, Oklahoma, where he builds a new criminal empire with a group&#46;&#46;&#46;]]></description>
 		
 		
 		
