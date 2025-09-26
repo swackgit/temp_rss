@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Thu, 25 Sep 2025 20:59:50 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 26 Sep 2025 16:28:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The Rock (1996)</title>
+		<link>http://free-movies.to/movies/the-rock-1996/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Fri, 26 Sep 2025 05:00:44 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[Thriller]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">https://impaled.ws/?p=33401</guid>
+
+					<description><![CDATA[R &#124; 2h 16min &#124; Action, Adventure, Thriller An FBI chemical weapons expert, and a former SAS soldier turned political prisoner, must break into Alcatraz prison when a rogue military group, led by a&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>The Walking Dead: Daryl Dixon (2023)</title>
 		<link>http://free-movies.to/tv-show/the-walking-dead-daryl-dixon-2023/</link>
 		
@@ -195,24 +214,6 @@
 		<guid isPermaLink="false">http://free-movies.to/?p=56029</guid>
 
 					<description><![CDATA[PG-13 &#124; 1h 50min &#124; Action, Adventure, Sci-Fi, Thriller The G.I. Joes are not only fighting their mortal enemy Cobra; they are forced to contend with threats from within the government that jeopardize their&#46;&#46;&#46;]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hard Eight (1996)</title>
-		<link>http://free-movies.to/movies/hard-eight-1996/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Mon, 22 Sep 2025 06:00:36 +0000</pubDate>
-				<category><![CDATA[Movies]]></category>
-		<category><![CDATA[Crime]]></category>
-		<category><![CDATA[Drama]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://free-movies.to/?p=56038</guid>
-
-					<description><![CDATA[Original title: Sydney &#124; R &#124; 1h 41min &#124; Crime, Drama A stranger mentors a young, troubled Reno gambler.]]></description>
 		
 		
 		
