@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Fri, 26 Sep 2025 17:18:08 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 27 Sep 2025 11:42:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Payback (1999)</title>
+		<link>http://free-movies.to/movies/payback-1999/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Sat, 27 Sep 2025 05:00:04 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<category><![CDATA[Action]]></category>
+		<category><![CDATA[Crime]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[Thriller]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://free-movies.to/?p=56071</guid>
+
+					<description><![CDATA[R &#124; 1h 40min &#124; Action, Crime, Drama, Thriller After a successful heist, Porter is left for dead. Once he recovers, he seeks vengeance and wants his share of the money.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Invasion (2021)</title>
 		<link>http://free-movies.to/tv-show/invasion-2021/</link>
 		
@@ -195,25 +215,6 @@
 		<guid isPermaLink="false">http://free-movies.to/?p=56047</guid>
 
 					<description><![CDATA[R &#124; 1h 39min &#124; Thriller A retired boxer returns to the ring for one last shot at the title but only if he can make the weight. Holed up in a room in&#46;&#46;&#46;]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The Fantastic Four: First Steps (2025)</title>
-		<link>http://free-movies.to/movies/the-fantastic-four-first-steps-2025/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Mon, 22 Sep 2025 22:00:08 +0000</pubDate>
-				<category><![CDATA[Movies]]></category>
-		<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Sci-Fi]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://free-movies.to/?p=56032</guid>
-
-					<description><![CDATA[PG-13 &#124; 1h 54min &#124; Action, Adventure, Sci-Fi Forced to balance their roles as heroes with the strength of their family bond, the Fantastic Four must defend Earth from a ravenous space god called&#46;&#46;&#46;]]></description>
 		
 		
 		
