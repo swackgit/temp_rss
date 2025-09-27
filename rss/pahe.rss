@@ -12,7 +12,7 @@
 	<atom:link href="https://pahe.ink/feed/" rel="self" type="application/rss+xml" />
 	<link>https://pahe.ink</link>
 	<description>HQ Movies at Affordable Size</description>
-	<lastBuildDate>Fri, 26 Sep 2025 23:45:53 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 27 Sep 2025 06:17:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -78,6 +78,23 @@
 		
 					<wfw:commentRss>https://pahe.ink/all-of-you-2025-web-dl-480p-720p-1080p/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Outlander: Blood of My Blood Season 1 WEB-DL [Episode 9 Added]</title>
+		<link>https://pahe.ink/outlander-blood-of-my-blood/</link>
+					<comments>https://pahe.ink/outlander-blood-of-my-blood/#comments</comments>
+		
+		<dc:creator><![CDATA[BHB]]></dc:creator>
+		<pubDate>Fri, 26 Sep 2025 06:10:16 +0000</pubDate>
+				<category><![CDATA[TV-Drama]]></category>
+		<guid isPermaLink="false">https://pahe.ink/?p=195077</guid>
+
+					<description><![CDATA["Outlander: Blood of My Blood" is a romantic saga that unfolds across time. From the battlefields of World War I to the rugged Highlands of 18th century Scotland, two fated couples must defy the forces that seek to tear them apart, intersecting in surprising and unforeseen ways.]]></description>
+		
+					<wfw:commentRss>https://pahe.ink/outlander-blood-of-my-blood/feed/</wfw:commentRss>
+			<slash:comments>18</slash:comments>
 		
 		
 			</item>
@@ -335,27 +352,6 @@
 		
 					<wfw:commentRss>https://pahe.ink/high-potential-season-2/feed/</wfw:commentRss>
 			<slash:comments>5</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Gen V Season 2 WEB-DL [Episode 4 Added]</title>
-		<link>https://pahe.ink/gen-v-season-2/</link>
-					<comments>https://pahe.ink/gen-v-season-2/#comments</comments>
-		
-		<dc:creator><![CDATA[BHB]]></dc:creator>
-		<pubDate>Wed, 24 Sep 2025 17:00:32 +0000</pubDate>
-				<category><![CDATA[TV-Action]]></category>
-		<category><![CDATA[TV-Adventure]]></category>
-		<category><![CDATA[TV-Comedy]]></category>
-		<category><![CDATA[TV-Drama]]></category>
-		<category><![CDATA[TV-Sci-Fi]]></category>
-		<guid isPermaLink="false">https://pahe.ink/?p=198192</guid>
-
-					<description><![CDATA[The lives of hormonal, competitive Superheroes as they put their physical, sexual, and moral boundaries to the test.]]></description>
-		
-					<wfw:commentRss>https://pahe.ink/gen-v-season-2/feed/</wfw:commentRss>
-			<slash:comments>10</slash:comments>
 		
 		
 			</item>
