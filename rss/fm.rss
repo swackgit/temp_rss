@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Sun, 28 Sep 2025 19:43:03 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 28 Sep 2025 20:18:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Billy the Kid (2022)</title>
+		<link>http://free-movies.to/tv-show/billy-the-kid-2022/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Sun, 28 Sep 2025 09:00:16 +0000</pubDate>
+				<category><![CDATA[TV-show]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[epix]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[romance]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">https://free-movies.to/?p=41054</guid>
+
+					<description><![CDATA[TV Series &#124; Adventure, Romance An epic romantic adventure based on the life of Billy the Kid, from his humble Irish roots and his early days as a cowboy and gunslinger in the American&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Tulsa King (2022)</title>
 		<link>http://free-movies.to/tv-show/tulsa-king-2022/</link>
 		
@@ -196,25 +215,6 @@
 		<guid isPermaLink="false">https://free-movies.to/?p=52696</guid>
 
 					<description><![CDATA[TV-14 &#124; Drama Dr. Oliver Wolf, a gifted neurologist, applies his unconventional approach to treating puzzling psychological cases.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The New World (2005)</title>
-		<link>http://free-movies.to/movies/the-new-world-2005/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Thu, 25 Sep 2025 05:00:12 +0000</pubDate>
-				<category><![CDATA[Movies]]></category>
-		<category><![CDATA[Biography]]></category>
-		<category><![CDATA[Drama]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[history]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">https://free-movies.to/?p=35812</guid>
-
-					<description><![CDATA[PG-13 &#124; 2h 15min &#124; Biography, Drama, History The story of the English exploration of Virginia, and of the changing world and loves of Pocahontas.]]></description>
 		
 		
 		
