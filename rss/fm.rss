@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Sun, 28 Sep 2025 19:23:11 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 28 Sep 2025 19:43:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Tulsa King (2022)</title>
+		<link>http://free-movies.to/tv-show/tulsa-king-2022/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Sun, 28 Sep 2025 08:00:05 +0000</pubDate>
+				<category><![CDATA[TV-show]]></category>
+		<category><![CDATA[Crime]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[gangster]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[paramount]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">https://free-movies.to/?p=43980</guid>
+
+					<description><![CDATA[TV Series &#124; TV-MA &#124; Gangster, Crime, Drama Following his release from prison, mafia capo Dwight &#8220;The General&#8221; Manfredi is exiled to Tulsa, Oklahoma, where he builds a new criminal empire with a group&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>The Rainmaker (2025)</title>
 		<link>http://free-movies.to/tv-show/the-rainmaker-2025/</link>
 		
@@ -195,27 +215,6 @@
 		<guid isPermaLink="false">https://free-movies.to/?p=35812</guid>
 
 					<description><![CDATA[PG-13 &#124; 2h 15min &#124; Biography, Drama, History The story of the English exploration of Virginia, and of the changing world and loves of Pocahontas.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Alien: Earth (2025)</title>
-		<link>http://free-movies.to/tv-show/alien-earth-2025/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Wed, 24 Sep 2025 07:00:38 +0000</pubDate>
-				<category><![CDATA[TV-show]]></category>
-		<category><![CDATA[fx]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Horror]]></category>
-		<category><![CDATA[hulu]]></category>
-		<category><![CDATA[Sci-Fi]]></category>
-		<category><![CDATA[Thriller]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://free-movies.to/?p=55544</guid>
-
-					<description><![CDATA[TV-MA &#124; Horror, Sci-Fi, Thriller When a mysterious space vessel crash-lands on Earth, a young woman and a ragtag group of tactical soldiers make a fateful discovery that puts them face-to-face with the planet&#8217;s&#46;&#46;&#46;]]></description>
 		
 		
 		
