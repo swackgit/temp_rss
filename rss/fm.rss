@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Mon, 29 Sep 2025 07:26:23 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 29 Sep 2025 23:10:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Deja Vu (2006)</title>
+		<link>http://free-movies.to/movies/deja-vu-2006/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Mon, 29 Sep 2025 23:00:52 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<category><![CDATA[Action]]></category>
+		<category><![CDATA[Crime]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[Sci-Fi]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://impaled.ws/?p=979</guid>
+
+					<description><![CDATA[PG-13 &#124; 2h 6min &#124; Action, Crime, Sci-Fi After a ferry is bombed in New Orleans, an A.T.F. agent joins a unique investigation using experimental surveillance technology to find the bomber, but soon finds&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Dial M for Murder (1954)</title>
 		<link>http://free-movies.to/movies/dial-m-for-murder-1954/</link>
 		
@@ -198,25 +217,6 @@
 		<guid isPermaLink="false">https://impaled.ws/?p=33401</guid>
 
 					<description><![CDATA[R &#124; 2h 16min &#124; Action, Adventure, Thriller An FBI chemical weapons expert, and a former SAS soldier turned political prisoner, must break into Alcatraz prison when a rogue military group, led by a&#46;&#46;&#46;]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The Walking Dead: Daryl Dixon (2023)</title>
-		<link>http://free-movies.to/tv-show/the-walking-dead-daryl-dixon-2023/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Thu, 25 Sep 2025 07:00:40 +0000</pubDate>
-				<category><![CDATA[TV-show]]></category>
-		<category><![CDATA[amc]]></category>
-		<category><![CDATA[Drama]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Horror]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">https://free-movies.to/?p=47768</guid>
-
-					<description><![CDATA[Drama, Horror Daryl&#8217;s journey across a broken but resilient France as he hopes to find a way back home.]]></description>
 		
 		
 		
