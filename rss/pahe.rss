@@ -12,7 +12,7 @@
 	<atom:link href="https://pahe.ink/feed/" rel="self" type="application/rss+xml" />
 	<link>https://pahe.ink</link>
 	<description>HQ Movies at Affordable Size</description>
-	<lastBuildDate>Wed, 01 Oct 2025 14:13:50 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 Oct 2025 07:46:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -35,7 +35,7 @@
 					<description><![CDATA[A former diplomat uncovers a conspiracy that threatens the stability of the Korean peninsula.]]></description>
 		
 					<wfw:commentRss>https://pahe.ink/tempest-season-1/feed/</wfw:commentRss>
-			<slash:comments>25</slash:comments>
+			<slash:comments>26</slash:comments>
 		
 		
 			</item>
@@ -138,6 +138,25 @@
 		
 					<wfw:commentRss>https://pahe.ink/slow-horses-season-5/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>High Potential Season 2 WEB-DL [Episode 3 Added]</title>
+		<link>https://pahe.ink/high-potential-season-2/</link>
+					<comments>https://pahe.ink/high-potential-season-2/#comments</comments>
+		
+		<dc:creator><![CDATA[BHB]]></dc:creator>
+		<pubDate>Tue, 30 Sep 2025 17:04:07 +0000</pubDate>
+				<category><![CDATA[TV-Crime]]></category>
+		<category><![CDATA[TV-Drama]]></category>
+		<category><![CDATA[TV-Mystery]]></category>
+		<guid isPermaLink="false">https://pahe.ink/?p=198196</guid>
+
+					<description><![CDATA[A single mom with three kids helps solve an unsolvable crime when she rearranges some evidence during her shift as a police department cleaner.]]></description>
+		
+					<wfw:commentRss>https://pahe.ink/high-potential-season-2/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
 		
 		
 			</item>
@@ -339,24 +358,6 @@
 		
 					<wfw:commentRss>https://pahe.ink/species-ii-1998-bluray-480p-720p-1080p/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>The Walking Dead: Daryl Dixon Season 3 WEB-DL [Episode 4 Added]</title>
-		<link>https://pahe.ink/the-walking-dead-daryl-dixon-season-3/</link>
-					<comments>https://pahe.ink/the-walking-dead-daryl-dixon-season-3/#comments</comments>
-		
-		<dc:creator><![CDATA[BHB]]></dc:creator>
-		<pubDate>Sun, 28 Sep 2025 13:24:46 +0000</pubDate>
-				<category><![CDATA[TV-Drama]]></category>
-		<category><![CDATA[TV-Horror]]></category>
-		<guid isPermaLink="false">https://pahe.ink/?p=197580</guid>
-
-					<description><![CDATA[Daryl's journey across a broken but resilient France as he hopes to find a way back home.]]></description>
-		
-					<wfw:commentRss>https://pahe.ink/the-walking-dead-daryl-dixon-season-3/feed/</wfw:commentRss>
-			<slash:comments>30</slash:comments>
 		
 		
 			</item>
