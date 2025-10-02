@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Wed, 01 Oct 2025 22:08:56 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 Oct 2025 22:07:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,48 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Funny Games (1997)</title>
+		<link>http://free-movies.to/movies/funny-games-1997/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Thu, 02 Oct 2025 06:00:47 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<category><![CDATA[Crime]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[Horror]]></category>
+		<category><![CDATA[Thriller]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://free-movies.to/?p=56146</guid>
+
+					<description><![CDATA[Not Rated &#124; 1h 48min &#124; Crime, Drama, Horror, Thriller Two violent young men take a mother, father, and son hostage in their vacation cabin and force them to play sadistic &#8220;games&#8221; with one&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chicago Fire (2012)</title>
+		<link>http://free-movies.to/tv-show/chicago-fire-2012/</link>
+					<comments>http://free-movies.to/tv-show/chicago-fire-2012/#respond</comments>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Thu, 02 Oct 2025 05:00:53 +0000</pubDate>
+				<category><![CDATA[TV-show]]></category>
+		<category><![CDATA[Action]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[NBC]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://impaled.ws/?p=2787</guid>
+
+					<description><![CDATA[TV-14 &#124; 43min &#124; Action, Drama The story of firefighters in Chicago, both on a personal and professional level. Previous Seasons &#160;]]></description>
+		
+					<wfw:commentRss>http://free-movies.to/tv-show/chicago-fire-2012/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Downton Abbey: The Grand Finale (2025)</title>
 		<link>http://free-movies.to/movies/downton-abbey-the-grand-finale-2025/</link>
 		
@@ -172,45 +214,6 @@
 		<guid isPermaLink="false">http://impaled.ws/?p=979</guid>
 
 					<description><![CDATA[PG-13 &#124; 2h 6min &#124; Action, Crime, Sci-Fi After a ferry is bombed in New Orleans, an A.T.F. agent joins a unique investigation using experimental surveillance technology to find the bomber, but soon finds&#46;&#46;&#46;]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Dial M for Murder (1954)</title>
-		<link>http://free-movies.to/movies/dial-m-for-murder-1954/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Mon, 29 Sep 2025 05:00:50 +0000</pubDate>
-				<category><![CDATA[Movies]]></category>
-		<category><![CDATA[Crime]]></category>
-		<category><![CDATA[Drama]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Mystery]]></category>
-		<category><![CDATA[Thriller]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://impaled.ws/?p=27924</guid>
-
-					<description><![CDATA[PG &#124; 1h 45min &#124; Crime, Drama, Mystery, Thriller A London playboy plots the perfect murder of his rich, unfaithful wife.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Billy the Kid (2022)</title>
-		<link>http://free-movies.to/tv-show/billy-the-kid-2022/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Sun, 28 Sep 2025 09:00:16 +0000</pubDate>
-				<category><![CDATA[TV-show]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[epix]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[romance]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">https://free-movies.to/?p=41054</guid>
-
-					<description><![CDATA[TV Series &#124; Adventure, Romance An epic romantic adventure based on the life of Billy the Kid, from his humble Irish roots and his early days as a cowboy and gunslinger in the American&#46;&#46;&#46;]]></description>
 		
 		
 		
