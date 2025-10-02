@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Thu, 02 Oct 2025 22:07:27 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 Oct 2025 23:15:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Tron (1982)</title>
+		<link>http://free-movies.to/movies/tron-1982/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Thu, 02 Oct 2025 23:00:55 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[Sci-Fi]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://free-movies.to/?p=56151</guid>
+
+					<description><![CDATA[PG &#124; 1h 36min &#124; Action, Adventure, Sci-Fi A computer hacker is abducted into a digital world and forced to participate in gladiatorial games where his only chance of escape is with the help&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Funny Games (1997)</title>
 		<link>http://free-movies.to/movies/funny-games-1997/</link>
 		
@@ -195,25 +214,6 @@
 		<guid isPermaLink="false">https://free-movies.to/?p=40686</guid>
 
 					<description><![CDATA[TV Series &#124; Drama, Thriller A dysfunctional team of MI5 agents navigate the espionage world&#8217;s smoke and mirrors to defend the UK from sinister forces. Previous Seasons &#160;]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Deja Vu (2006)</title>
-		<link>http://free-movies.to/movies/deja-vu-2006/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Mon, 29 Sep 2025 23:00:52 +0000</pubDate>
-				<category><![CDATA[Movies]]></category>
-		<category><![CDATA[Action]]></category>
-		<category><![CDATA[Crime]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Sci-Fi]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://impaled.ws/?p=979</guid>
-
-					<description><![CDATA[PG-13 &#124; 2h 6min &#124; Action, Crime, Sci-Fi After a ferry is bombed in New Orleans, an A.T.F. agent joins a unique investigation using experimental surveillance technology to find the bomber, but soon finds&#46;&#46;&#46;]]></description>
 		
 		
 		
