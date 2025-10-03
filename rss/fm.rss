@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Fri, 03 Oct 2025 16:28:49 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 Oct 2025 17:13:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Steve (2025)</title>
+		<link>http://free-movies.to/movies/steve-2025/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Fri, 03 Oct 2025 07:00:48 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<category><![CDATA[Comedy]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[netflix]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://free-movies.to/?p=56158</guid>
+
+					<description><![CDATA[R &#124; 1h 33min &#124; Comedy, Drama Follows headteacher Steve battling for his reform college&#8217;s survival while managing his mental health. Concurrently, troubled student Shy navigates his violent tendencies and fragility, torn between his&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Invasion (2021)</title>
 		<link>http://free-movies.to/tv-show/invasion-2021/</link>
 		
@@ -195,26 +214,6 @@
 		<guid isPermaLink="false">https://free-movies.to/?p=52696</guid>
 
 					<description><![CDATA[TV-14 &#124; Drama Dr. Oliver Wolf, a gifted neurologist, applies his unconventional approach to treating puzzling psychological cases.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Play Dirty (2025)</title>
-		<link>http://free-movies.to/movies/play-dirty-2025/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Wed, 01 Oct 2025 07:00:44 +0000</pubDate>
-				<category><![CDATA[Movies]]></category>
-		<category><![CDATA[Action]]></category>
-		<category><![CDATA[Crime]]></category>
-		<category><![CDATA[Drama]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Thriller]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://free-movies.to/?p=56117</guid>
-
-					<description><![CDATA[R &#124; 1h 50min &#124; Action, Crime, Drama, Thriller A ruthless thief and his expert crew stumble onto the heist of a lifetime.]]></description>
 		
 		
 		
