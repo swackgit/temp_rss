@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Sat, 04 Oct 2025 12:30:09 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 Oct 2025 13:48:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Gotcha! (1985)</title>
+		<link>http://free-movies.to/movies/gotcha-1985/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Sat, 04 Oct 2025 06:00:42 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<category><![CDATA[Action]]></category>
+		<category><![CDATA[Comedy]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[Mystery]]></category>
+		<category><![CDATA[romance]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://free-movies.to/?p=56169</guid>
+
+					<description><![CDATA[PG-13 &#124; 1h 41min &#124; Action, Comedy, Mystery, Romance An 18-year-old college student travels to Paris with a friend on vacation. There, he meets Sasha, a young Eastern European woman who seduces him into&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Funny Games (2007)</title>
 		<link>http://free-movies.to/movies/funny-games-2007/</link>
 		
@@ -197,24 +217,6 @@
 		<guid isPermaLink="false">http://free-movies.to/?p=56130</guid>
 
 					<description><![CDATA[R &#124; 1h 47min &#124; Comedy, Crime, Thriller Burned-out ex-baseball player Hank Thompson unexpectedly finds himself embroiled in a dangerous struggle for survival amidst the criminal underbelly of 1990s New York City, forced to&#46;&#46;&#46;]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Dodgeball: A True Underdog Story (2004)</title>
-		<link>http://free-movies.to/movies/dodgeball-a-true-underdog-story-2004/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Wed, 01 Oct 2025 09:00:23 +0000</pubDate>
-				<category><![CDATA[Movies]]></category>
-		<category><![CDATA[Comedy]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[sport]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://free-movies.to/?p=56125</guid>
-
-					<description><![CDATA[PG-13 &#124; 1h 32min &#124; Comedy, Sport A group of misfits enter a Las Vegas dodgeball tournament in order to save their cherished local gym from the onslaught of a corporate health fitness chain.]]></description>
 		
 		
 		
