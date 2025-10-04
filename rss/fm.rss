@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Fri, 03 Oct 2025 17:13:36 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 Oct 2025 12:30:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Funny Games (2007)</title>
+		<link>http://free-movies.to/movies/funny-games-2007/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Sat, 04 Oct 2025 05:00:54 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<category><![CDATA[Crime]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[Thriller]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://free-movies.to/?p=56164</guid>
+
+					<description><![CDATA[R &#124; 1h 51min &#124; Crime, Drama, Thriller Two psychopathic young men take a family hostage in their cabin.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Steve (2025)</title>
 		<link>http://free-movies.to/movies/steve-2025/</link>
 		
@@ -196,24 +215,6 @@
 		<guid isPermaLink="false">http://free-movies.to/?p=56125</guid>
 
 					<description><![CDATA[PG-13 &#124; 1h 32min &#124; Comedy, Sport A group of misfits enter a Las Vegas dodgeball tournament in order to save their cherished local gym from the onslaught of a corporate health fitness chain.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Brilliant Minds (2024)</title>
-		<link>http://free-movies.to/tv-show/brilliant-minds-2024/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Wed, 01 Oct 2025 08:00:55 +0000</pubDate>
-				<category><![CDATA[TV-show]]></category>
-		<category><![CDATA[Drama]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[NBC]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">https://free-movies.to/?p=52696</guid>
-
-					<description><![CDATA[TV-14 &#124; Drama Dr. Oliver Wolf, a gifted neurologist, applies his unconventional approach to treating puzzling psychological cases.]]></description>
 		
 		
 		
