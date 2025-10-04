@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Sat, 04 Oct 2025 15:48:27 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 Oct 2025 16:54:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The Lost Bus (2025)</title>
+		<link>http://free-movies.to/movies/the-lost-bus-2025/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Sat, 04 Oct 2025 09:00:12 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<category><![CDATA[Biography]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[Thriller]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://free-movies.to/?p=56186</guid>
+
+					<description><![CDATA[R &#124; 2h 9min &#124; Biography, Drama, History, Thriller A wayward school bus driver and a dedicated school teacher battle to save 22 children from a terrifying inferno.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>The Rainmaker (2025)</title>
 		<link>http://free-movies.to/tv-show/the-rainmaker-2025/</link>
 		
@@ -197,28 +217,6 @@
 
 					<description><![CDATA[Not Rated &#124; 1h 48min &#124; Crime, Drama, Horror, Thriller Two violent young men take a mother, father, and son hostage in their vacation cabin and force them to play sadistic &#8220;games&#8221; with one&#46;&#46;&#46;]]></description>
 		
-		
-		
-			</item>
-		<item>
-		<title>Chicago Fire (2012)</title>
-		<link>http://free-movies.to/tv-show/chicago-fire-2012/</link>
-					<comments>http://free-movies.to/tv-show/chicago-fire-2012/#respond</comments>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Thu, 02 Oct 2025 05:00:53 +0000</pubDate>
-				<category><![CDATA[TV-show]]></category>
-		<category><![CDATA[Action]]></category>
-		<category><![CDATA[Drama]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[NBC]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://impaled.ws/?p=2787</guid>
-
-					<description><![CDATA[TV-14 &#124; 43min &#124; Action, Drama The story of firefighters in Chicago, both on a personal and professional level. Previous Seasons &#160;]]></description>
-		
-					<wfw:commentRss>http://free-movies.to/tv-show/chicago-fire-2012/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
