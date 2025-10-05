@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Sun, 05 Oct 2025 16:46:05 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 Oct 2025 19:36:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Strangers on a Train (1951)</title>
+		<link>http://free-movies.to/movies/strangers-on-a-train-1951/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Sun, 05 Oct 2025 09:00:40 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<category><![CDATA[Crime]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[film-noir]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">https://free-movies.to/?p=47315</guid>
+
+					<description><![CDATA[PG &#124; 1h 41min &#124; Crime, Drama, Thriller A psychopath tries to forcibly persuade a tennis star to agree to his theory that two strangers can get away with murder by submitting to his&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Primitive War (2025)</title>
 		<link>http://free-movies.to/movies/primitive-war-2025/</link>
 		
@@ -195,26 +214,6 @@
 		<guid isPermaLink="false">http://free-movies.to/?p=56174</guid>
 
 					<description><![CDATA[1h 55min &#124; Horror A collection of Halloween-themed videotapes unleashes a series of twisted, blood-soaked tales, turning trick-or-treat into a struggle for survival.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Gotcha! (1985)</title>
-		<link>http://free-movies.to/movies/gotcha-1985/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Sat, 04 Oct 2025 06:00:42 +0000</pubDate>
-				<category><![CDATA[Movies]]></category>
-		<category><![CDATA[Action]]></category>
-		<category><![CDATA[Comedy]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Mystery]]></category>
-		<category><![CDATA[romance]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://free-movies.to/?p=56169</guid>
-
-					<description><![CDATA[PG-13 &#124; 1h 41min &#124; Action, Comedy, Mystery, Romance An 18-year-old college student travels to Paris with a friend on vacation. There, he meets Sasha, a young Eastern European woman who seduces him into&#46;&#46;&#46;]]></description>
 		
 		
 		
