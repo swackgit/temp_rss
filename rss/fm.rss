@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Sun, 05 Oct 2025 09:41:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 Oct 2025 09:51:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,45 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Tulsa King (2022)</title>
+		<link>http://free-movies.to/tv-show/tulsa-king-2022/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Sun, 05 Oct 2025 07:00:05 +0000</pubDate>
+				<category><![CDATA[TV-show]]></category>
+		<category><![CDATA[Crime]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[gangster]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[paramount]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">https://free-movies.to/?p=43980</guid>
+
+					<description><![CDATA[TV Series &#124; TV-MA &#124; Gangster, Crime, Drama Following his release from prison, mafia capo Dwight &#8220;The General&#8221; Manfredi is exiled to Tulsa, Oklahoma, where he builds a new criminal empire with a group&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Billy the Kid (2022)</title>
+		<link>http://free-movies.to/tv-show/billy-the-kid-2022/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Sun, 05 Oct 2025 06:00:16 +0000</pubDate>
+				<category><![CDATA[TV-show]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[epix]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[romance]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">https://free-movies.to/?p=41054</guid>
+
+					<description><![CDATA[TV Series &#124; Adventure, Romance An epic romantic adventure based on the life of Billy the Kid, from his humble Irish roots and his early days as a cowboy and gunslinger in the American&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>The Walking Dead: Daryl Dixon (2023)</title>
 		<link>http://free-movies.to/tv-show/the-walking-dead-daryl-dixon-2023/</link>
 		
@@ -175,45 +214,6 @@
 		<guid isPermaLink="false">http://free-movies.to/?p=56164</guid>
 
 					<description><![CDATA[R &#124; 1h 51min &#124; Crime, Drama, Thriller Two psychopathic young men take a family hostage in their cabin.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Steve (2025)</title>
-		<link>http://free-movies.to/movies/steve-2025/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Fri, 03 Oct 2025 07:00:48 +0000</pubDate>
-				<category><![CDATA[Movies]]></category>
-		<category><![CDATA[Comedy]]></category>
-		<category><![CDATA[Drama]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[netflix]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://free-movies.to/?p=56158</guid>
-
-					<description><![CDATA[R &#124; 1h 33min &#124; Comedy, Drama Follows headteacher Steve battling for his reform college&#8217;s survival while managing his mental health. Concurrently, troubled student Shy navigates his violent tendencies and fragility, torn between his&#46;&#46;&#46;]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Invasion (2021)</title>
-		<link>http://free-movies.to/tv-show/invasion-2021/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Fri, 03 Oct 2025 06:00:15 +0000</pubDate>
-				<category><![CDATA[TV-show]]></category>
-		<category><![CDATA[apple]]></category>
-		<category><![CDATA[Drama]]></category>
-		<category><![CDATA[Fantasy]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Sci-Fi]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">https://free-movies.to/?p=37900</guid>
-
-					<description><![CDATA[TV-MA &#124; Drama, Fantasy, Sci-Fi Earth is visited by an alien species that threatens humanity&#8217;s existence. Events unfold in real time through the eyes of five ordinary people across the globe as they struggle&#46;&#46;&#46;]]></description>
 		
 		
 		
