@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Sat, 04 Oct 2025 18:13:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 Oct 2025 09:41:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The Walking Dead: Daryl Dixon (2023)</title>
+		<link>http://free-movies.to/tv-show/the-walking-dead-daryl-dixon-2023/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Sun, 05 Oct 2025 05:00:40 +0000</pubDate>
+				<category><![CDATA[TV-show]]></category>
+		<category><![CDATA[amc]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[Horror]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">https://free-movies.to/?p=47768</guid>
+
+					<description><![CDATA[Drama, Horror Daryl&#8217;s journey across a broken but resilient France as he hopes to find a way back home.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>16 Blocks (2006)</title>
 		<link>http://free-movies.to/movies/16-blocks-2006/</link>
 		
@@ -195,25 +214,6 @@
 		<guid isPermaLink="false">https://free-movies.to/?p=37900</guid>
 
 					<description><![CDATA[TV-MA &#124; Drama, Fantasy, Sci-Fi Earth is visited by an alien species that threatens humanity&#8217;s existence. Events unfold in real time through the eyes of five ordinary people across the globe as they struggle&#46;&#46;&#46;]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Jurassic World (2015)</title>
-		<link>http://free-movies.to/movies/jurassic-world-2015/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Fri, 03 Oct 2025 05:00:03 +0000</pubDate>
-				<category><![CDATA[Movies]]></category>
-		<category><![CDATA[Action]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Sci-Fi]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">https://impaled.ws/?p=33821</guid>
-
-					<description><![CDATA[PG-13 &#124; 2h 4min &#124; Action, Adventure, Sci-Fi A new theme park, built on the original site of Jurassic Park, creates a genetically modified hybrid dinosaur, the Indominus Rex, which escapes containment and goes&#46;&#46;&#46;]]></description>
 		
 		
 		
