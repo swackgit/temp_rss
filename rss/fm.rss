@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Sun, 05 Oct 2025 19:36:58 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 Oct 2025 06:45:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Blood Diamond (2006)</title>
+		<link>http://free-movies.to/movies/blood-diamond-2006/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Mon, 06 Oct 2025 05:00:50 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[Thriller]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://impaled.ws/?p=6015</guid>
+
+					<description><![CDATA[R &#124; 2h 23min &#124; Adventure, Drama, Thriller A fisherman, a smuggler, and a syndicate of businessmen match wits over the possession of a priceless diamond.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Strangers on a Train (1951)</title>
 		<link>http://free-movies.to/movies/strangers-on-a-train-1951/</link>
 		
@@ -196,24 +215,6 @@
 		<guid isPermaLink="false">http://free-movies.to/?p=55607</guid>
 
 					<description><![CDATA[Crime, Drama, Thriller Based on the 1995 novel by John Grisham, the series follows a young lawyer who finds himself trapped by the dangerous firm that has hired him.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>V/H/S/Halloween (2025)</title>
-		<link>http://free-movies.to/movies/v-h-s-halloween-2025/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Sat, 04 Oct 2025 07:00:52 +0000</pubDate>
-				<category><![CDATA[Movies]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Horror]]></category>
-		<category><![CDATA[shudder]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://free-movies.to/?p=56174</guid>
-
-					<description><![CDATA[1h 55min &#124; Horror A collection of Halloween-themed videotapes unleashes a series of twisted, blood-soaked tales, turning trick-or-treat into a struggle for survival.]]></description>
 		
 		
 		
