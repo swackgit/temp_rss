@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Tue, 07 Oct 2025 15:08:37 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Oct 2025 20:03:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Brilliant Minds (2024)</title>
+		<link>http://free-movies.to/tv-show/brilliant-minds-2024/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Tue, 07 Oct 2025 07:00:55 +0000</pubDate>
+				<category><![CDATA[TV-show]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[NBC]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">https://free-movies.to/?p=52696</guid>
+
+					<description><![CDATA[TV-14 &#124; Drama Dr. Oliver Wolf, a gifted neurologist, applies his unconventional approach to treating puzzling psychological cases.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Him (2025)</title>
 		<link>http://free-movies.to/movies/him-2025/</link>
 		
@@ -195,25 +213,6 @@
 		<guid isPermaLink="false">https://free-movies.to/?p=41054</guid>
 
 					<description><![CDATA[TV Series &#124; Adventure, Romance An epic romantic adventure based on the life of Billy the Kid, from his humble Irish roots and his early days as a cowboy and gunslinger in the American&#46;&#46;&#46;]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The Walking Dead: Daryl Dixon (2023)</title>
-		<link>http://free-movies.to/tv-show/the-walking-dead-daryl-dixon-2023/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Sun, 05 Oct 2025 05:00:40 +0000</pubDate>
-				<category><![CDATA[TV-show]]></category>
-		<category><![CDATA[amc]]></category>
-		<category><![CDATA[Drama]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Horror]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">https://free-movies.to/?p=47768</guid>
-
-					<description><![CDATA[Drama, Horror Daryl&#8217;s journey across a broken but resilient France as he hopes to find a way back home.]]></description>
 		
 		
 		
