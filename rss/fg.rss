@@ -932,9 +932,9 @@ or</p>
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 165/278 objects using Redis
+Object Caching 168/277 objects using Redis
 Page Caching using Redis 
-Database Caching using Redis
+Database Caching 1/2 queries in 0.000 seconds using Redis
 
-Served from: fitgirl-repacks.site @ 2025-10-07 20:35:56 by W3 Total Cache
+Served from: fitgirl-repacks.site @ 2025-10-07 21:35:58 by W3 Total Cache
 -->
