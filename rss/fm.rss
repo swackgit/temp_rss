@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Mon, 06 Oct 2025 18:54:05 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Oct 2025 15:08:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,44 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Him (2025)</title>
+		<link>http://free-movies.to/movies/him-2025/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Tue, 07 Oct 2025 06:00:49 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[Horror]]></category>
+		<category><![CDATA[sport]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://free-movies.to/?p=56230</guid>
+
+					<description><![CDATA[R &#124; 1h 36min &#124; Horror, Sport A young athlete descends into a world of terror when he&#8217;s invited to train with a legendary champion whose charisma curdles into something darker.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Victor Frankenstein (2015)</title>
+		<link>http://free-movies.to/movies/victor-frankenstein-2015/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Tue, 07 Oct 2025 06:00:31 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[Horror]]></category>
+		<category><![CDATA[Sci-Fi]]></category>
+		<category><![CDATA[Thriller]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://free-movies.to/?p=56225</guid>
+
+					<description><![CDATA[PG-13 &#124; 1h 50min &#124; Drama, Horror, Sci-Fi, Thriller Told from Igor&#8217;s perspective, we see the troubled young assistant&#8217;s dark origins, his redemptive friendship with the young medical student Viktor Von Frankenstein, and become&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>The Conjuring: Last Rites (2025)</title>
 		<link>http://free-movies.to/movies/the-conjuring-last-rites-2025/</link>
 		
@@ -176,43 +214,6 @@
 		<guid isPermaLink="false">https://free-movies.to/?p=47768</guid>
 
 					<description><![CDATA[Drama, Horror Daryl&#8217;s journey across a broken but resilient France as he hopes to find a way back home.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>16 Blocks (2006)</title>
-		<link>http://free-movies.to/movies/16-blocks-2006/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Sat, 04 Oct 2025 11:00:18 +0000</pubDate>
-				<category><![CDATA[Movies]]></category>
-		<category><![CDATA[Action]]></category>
-		<category><![CDATA[Drama]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Thriller]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://free-movies.to/?p=56179</guid>
-
-					<description><![CDATA[PG-13 &#124; 1h 42min &#124; Action, Drama, Thriller An aging alcoholic cop is assigned the task of escorting a witness from police custody to a courthouse 16 blocks away. There are, however, chaotic forces&#46;&#46;&#46;]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ancient Aliens (2009)</title>
-		<link>http://free-movies.to/tv-show/ancient-aliens-2009/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Sat, 04 Oct 2025 10:00:36 +0000</pubDate>
-				<category><![CDATA[TV-show]]></category>
-		<category><![CDATA[documentary]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Sci-Fi]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://impaled.ws/?p=9492</guid>
-
-					<description><![CDATA[TV-PG &#124; 42min &#124; Documentary, History, Sci-Fi Science and mythology &#8211; and how they are the same thing. Previous Seasons &#160;]]></description>
 		
 		
 		
