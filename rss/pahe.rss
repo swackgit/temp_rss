@@ -12,7 +12,7 @@
 	<atom:link href="https://pahe.ink/feed/" rel="self" type="application/rss+xml" />
 	<link>https://pahe.ink</link>
 	<description>HQ Movies at Affordable Size</description>
-	<lastBuildDate>Fri, 10 Oct 2025 11:46:46 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 10 Oct 2025 14:37:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -49,6 +49,7 @@
 		<pubDate>Fri, 10 Oct 2025 11:39:38 +0000</pubDate>
 				<category><![CDATA[Drama]]></category>
 		<category><![CDATA[Mystery]]></category>
+		<category><![CDATA[New]]></category>
 		<category><![CDATA[Thriller]]></category>
 		<category><![CDATA[1080p]]></category>
 		<category><![CDATA[2025]]></category>
