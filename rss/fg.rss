@@ -15,7 +15,7 @@
 	<atom:link href="https://fitgirl-repacks.site/feed/" rel="self" type="application/rss+xml" />
 	<link>https://fitgirl-repacks.site/</link>
 	<description>The ONLY official site for FitGirl Repacks. Every single FG repack installer has a link inside, which leads here. Do not fall for fake and scam sites, which are using my name.</description>
-	<lastBuildDate>Fri, 10 Oct 2025 16:10:53 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 10 Oct 2025 16:41:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -289,7 +289,7 @@ Repack Size: <strong>8.6 GB</strong></p>
 <ul>
 <li>Based on Little.Nightmares.III-RUNE ISO release: rune-little.nightmares.iii.iso (13,575,979,008 bytes)
 <li>Five DLCs are included and activated. Since most of the Expansion Pass DLCs are not released yet, this is NOT a Deluxe Edition. Just like any other release of this game out there
-<li>Alternative crack with online co-op support via Steam is available in NoDVD folder after installation, thanks to 0xdeadc0de! Check readme.txt for instructions
+<li>Alternative crack with online co-op support via Steam is available in NoDVD folder after installation, thanks to 0xdeadc0de! Check readme.txt for instructions. You also must have &#8220;Little Nightmares III &#8211; Free Trial &#038; Friend&#8217;s Pass&#8221; installed in Steam
 <li>100% Lossless &#038; MD5 Perfect: all files are identical to originals after installation
 <li>NOTHING ripped, NOTHING re-encoded
 <li>Significantly smaller archive size (compressed from 12.6 GB to 8.6 GB)
@@ -1058,9 +1058,9 @@ or<br />
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 153/263 objects using Redis
+Object Caching 49/408 objects using Redis
 Page Caching using Redis 
-Database Caching 1/2 queries in 0.000 seconds using Redis
+Database Caching using Redis
 
-Served from: fitgirl-repacks.site @ 2025-10-10 19:10:55 by W3 Total Cache
+Served from: fitgirl-repacks.site @ 2025-10-10 19:41:58 by W3 Total Cache
 -->

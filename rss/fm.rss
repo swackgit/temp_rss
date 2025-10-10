@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Fri, 10 Oct 2025 16:28:24 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 10 Oct 2025 16:32:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Invasion (2021)</title>
+		<link>http://free-movies.to/tv-show/invasion-2021/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Fri, 10 Oct 2025 06:00:15 +0000</pubDate>
+				<category><![CDATA[TV-show]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[Fantasy]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[Sci-Fi]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">https://free-movies.to/?p=37900</guid>
+
+					<description><![CDATA[TV-MA &#124; Drama, Fantasy, Sci-Fi Earth is visited by an alien species that threatens humanity&#8217;s existence. Events unfold in real time through the eyes of five ordinary people across the globe as they struggle&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Grey&#8217;s Anatomy (2005)</title>
 		<link>http://free-movies.to/tv-show/greys-anatomy-2005/</link>
 					<comments>http://free-movies.to/tv-show/greys-anatomy-2005/#respond</comments>
@@ -198,25 +218,6 @@
 		<guid isPermaLink="false">http://free-movies.to/?p=56211</guid>
 
 					<description><![CDATA[PG &#124; 2h 2min &#124; Drama, Thriller A reporter finds what appears to be a cover-up of safety hazards at a nuclear power plant.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Blood Diamond (2006)</title>
-		<link>http://free-movies.to/movies/blood-diamond-2006/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Mon, 06 Oct 2025 05:00:50 +0000</pubDate>
-				<category><![CDATA[Movies]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Drama]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Thriller]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://impaled.ws/?p=6015</guid>
-
-					<description><![CDATA[R &#124; 2h 23min &#124; Adventure, Drama, Thriller A fisherman, a smuggler, and a syndicate of businessmen match wits over the possession of a priceless diamond.]]></description>
 		
 		
 		
