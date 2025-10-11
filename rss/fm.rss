@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Sat, 11 Oct 2025 16:40:04 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 11 Oct 2025 17:44:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The Rainmaker (2025)</title>
+		<link>http://free-movies.to/tv-show/the-rainmaker-2025/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Sat, 11 Oct 2025 10:00:22 +0000</pubDate>
+				<category><![CDATA[TV-show]]></category>
+		<category><![CDATA[Crime]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[Thriller]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://free-movies.to/?p=55607</guid>
+
+					<description><![CDATA[Crime, Drama, Thriller Based on the 1995 novel by John Grisham, the series follows a young lawyer who finds himself trapped by the dangerous firm that has hired him.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Vicious (2025)</title>
 		<link>http://free-movies.to/movies/vicious-2025/</link>
 		
@@ -200,25 +219,6 @@
 		
 					<wfw:commentRss>http://free-movies.to/tv-show/chicago-fire-2012/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>The Morning Show (2019)</title>
-		<link>http://free-movies.to/tv-show/the-morning-show-2019/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Thu, 09 Oct 2025 05:00:13 +0000</pubDate>
-				<category><![CDATA[TV-show]]></category>
-		<category><![CDATA[apple]]></category>
-		<category><![CDATA[Comedy]]></category>
-		<category><![CDATA[Drama]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://impaled.ws/?p=23908</guid>
-
-					<description><![CDATA[TV-MA &#124; 1h &#124; Drama An inside look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the team. Previous Seasons &#160;]]></description>
-		
 		
 		
 			</item>
