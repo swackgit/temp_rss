@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Sat, 11 Oct 2025 14:15:04 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 11 Oct 2025 15:23:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>True Haunting (2025)</title>
+		<link>http://free-movies.to/movies/true-haunting-2025/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Sat, 11 Oct 2025 08:00:25 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<category><![CDATA[documentary]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[Horror]]></category>
+		<category><![CDATA[netflix]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://free-movies.to/?p=56257</guid>
+
+					<description><![CDATA[TV-MA &#124; 35min &#124; Documentary, Horror Horror virtuoso James Wan applies his spine-tingling filmmaking style to authentic paranormal tales.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Madagascar 3: Europe&#8217;s Most Wanted (2012)</title>
 		<link>http://free-movies.to/animation/madagascar-3-europes-most-wanted-2012/</link>
 		
@@ -200,24 +219,6 @@
 		<guid isPermaLink="false">https://free-movies.to/?p=52696</guid>
 
 					<description><![CDATA[TV-14 &#124; Drama Dr. Oliver Wolf, a gifted neurologist, applies his unconventional approach to treating puzzling psychological cases.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Him (2025)</title>
-		<link>http://free-movies.to/movies/him-2025/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Tue, 07 Oct 2025 06:00:49 +0000</pubDate>
-				<category><![CDATA[Movies]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Horror]]></category>
-		<category><![CDATA[sport]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://free-movies.to/?p=56230</guid>
-
-					<description><![CDATA[R &#124; 1h 36min &#124; Horror, Sport A young athlete descends into a world of terror when he&#8217;s invited to train with a legendary champion whose charisma curdles into something darker.]]></description>
 		
 		
 		
