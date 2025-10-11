@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Sat, 11 Oct 2025 11:13:14 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 11 Oct 2025 13:18:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Madagascar: Escape 2 Africa (2008)</title>
+		<link>http://free-movies.to/animation/madagascar-escape-2-africa-2008/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Sat, 11 Oct 2025 06:00:09 +0000</pubDate>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[Comedy]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://free-movies.to/?p=56247</guid>
+
+					<description><![CDATA[PG &#124; 1h 29min &#124; Adventure, Animation, Comedy The Madagascar animals fly back to New York City, but crash-land on an African nature reserve in Kenya, where they meet others of their own kind,&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Madagascar (2005)</title>
 		<link>http://free-movies.to/animation/madagascar-2005/</link>
 		
@@ -199,25 +218,6 @@
 		<guid isPermaLink="false">http://free-movies.to/?p=56225</guid>
 
 					<description><![CDATA[PG-13 &#124; 1h 50min &#124; Drama, Horror, Sci-Fi, Thriller Told from Igor&#8217;s perspective, we see the troubled young assistant&#8217;s dark origins, his redemptive friendship with the young medical student Viktor Von Frankenstein, and become&#46;&#46;&#46;]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The Conjuring: Last Rites (2025)</title>
-		<link>http://free-movies.to/movies/the-conjuring-last-rites-2025/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Mon, 06 Oct 2025 07:00:39 +0000</pubDate>
-				<category><![CDATA[Movies]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[Horror]]></category>
-		<category><![CDATA[Mystery]]></category>
-		<category><![CDATA[Thriller]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://free-movies.to/?p=56219</guid>
-
-					<description><![CDATA[R &#124; 2h 15min &#124; Horror, Mystery, Thriller Paranormal investigators Ed and Lorraine Warren take on one last terrifying case involving mysterious entities they must confront.]]></description>
 		
 		
 		
