@@ -1102,7 +1102,7 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Object Caching 157/280 objects using Redis
 Page Caching using Redis 
-Database Caching using Redis
+Database Caching 1/7 queries in 0.089 seconds using Redis
 
-Served from: fitgirl-repacks.site @ 2025-10-11 18:38:17 by W3 Total Cache
+Served from: fitgirl-repacks.site @ 2025-10-11 19:05:02 by W3 Total Cache
 -->
