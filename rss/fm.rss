@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Sat, 11 Oct 2025 15:23:42 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 11 Oct 2025 16:40:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Vicious (2025)</title>
+		<link>http://free-movies.to/movies/vicious-2025/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Sat, 11 Oct 2025 09:00:58 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[Horror]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">http://free-movies.to/?p=56262</guid>
+
+					<description><![CDATA[R &#124; 1h 38min &#124; Horror A woman spends the night fighting for her existence as she slips down a rabbit hole contained inside a gift from a late-night visitor.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>True Haunting (2025)</title>
 		<link>http://free-movies.to/movies/true-haunting-2025/</link>
 		
@@ -201,24 +218,6 @@
 		<guid isPermaLink="false">http://impaled.ws/?p=23908</guid>
 
 					<description><![CDATA[TV-MA &#124; 1h &#124; Drama An inside look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the team. Previous Seasons &#160;]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Brilliant Minds (2024)</title>
-		<link>http://free-movies.to/tv-show/brilliant-minds-2024/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Tue, 07 Oct 2025 07:00:55 +0000</pubDate>
-				<category><![CDATA[TV-show]]></category>
-		<category><![CDATA[Drama]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[NBC]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">https://free-movies.to/?p=52696</guid>
-
-					<description><![CDATA[TV-14 &#124; Drama Dr. Oliver Wolf, a gifted neurologist, applies his unconventional approach to treating puzzling psychological cases.]]></description>
 		
 		
 		
