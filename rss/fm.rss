@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Sun, 12 Oct 2025 18:18:38 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 12 Oct 2025 19:45:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Billy the Kid (2022)</title>
+		<link>http://free-movies.to/tv-show/billy-the-kid-2022/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Sun, 12 Oct 2025 07:00:16 +0000</pubDate>
+				<category><![CDATA[TV-show]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[epix]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[romance]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">https://free-movies.to/?p=41054</guid>
+
+					<description><![CDATA[TV Series &#124; Adventure, Romance An epic romantic adventure based on the life of Billy the Kid, from his humble Irish roots and his early days as a cowboy and gunslinger in the American&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Clash of the Titans (2010)</title>
 		<link>http://free-movies.to/movies/clash-of-the-titans-2010/</link>
 		
@@ -195,28 +214,6 @@
 
 					<description><![CDATA[TV-MA &#124; Drama, Fantasy, Sci-Fi Earth is visited by an alien species that threatens humanity&#8217;s existence. Events unfold in real time through the eyes of five ordinary people across the globe as they struggle&#46;&#46;&#46;]]></description>
 		
-		
-		
-			</item>
-		<item>
-		<title>Grey&#8217;s Anatomy (2005)</title>
-		<link>http://free-movies.to/tv-show/greys-anatomy-2005/</link>
-					<comments>http://free-movies.to/tv-show/greys-anatomy-2005/#respond</comments>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Fri, 10 Oct 2025 05:00:32 +0000</pubDate>
-				<category><![CDATA[TV-show]]></category>
-		<category><![CDATA[ABC]]></category>
-		<category><![CDATA[Drama]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[romance]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://impaled.ws/?p=1495</guid>
-
-					<description><![CDATA[TV-14 &#124; 41min &#124; Drama, Romance A drama centered on the personal and professional lives of five surgical interns and their supervisors. Previous Seasons &#160;]]></description>
-		
-					<wfw:commentRss>http://free-movies.to/tv-show/greys-anatomy-2005/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
