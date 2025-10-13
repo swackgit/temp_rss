@@ -12,7 +12,7 @@
 	<atom:link href="http://free-movies.to/feed/" rel="self" type="application/rss+xml" />
 	<link>http://free-movies.to</link>
 	<description>Quality Movie Downloads</description>
-	<lastBuildDate>Sun, 12 Oct 2025 20:03:56 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 13 Oct 2025 15:34:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The Walking Dead: Daryl Dixon (2023)</title>
+		<link>http://free-movies.to/tv-show/the-walking-dead-daryl-dixon-2023/</link>
+		
+		<dc:creator><![CDATA[Balthazar]]></dc:creator>
+		<pubDate>Mon, 13 Oct 2025 05:00:40 +0000</pubDate>
+				<category><![CDATA[TV-show]]></category>
+		<category><![CDATA[amc]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[hevc]]></category>
+		<category><![CDATA[Horror]]></category>
+		<category><![CDATA[x265]]></category>
+		<guid isPermaLink="false">https://free-movies.to/?p=47768</guid>
+
+					<description><![CDATA[Drama, Horror Daryl&#8217;s journey across a broken but resilient France as he hopes to find a way back home.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Tulsa King (2022)</title>
 		<link>http://free-movies.to/tv-show/tulsa-king-2022/</link>
 		
@@ -195,25 +214,6 @@
 		<guid isPermaLink="false">http://free-movies.to/?p=56250</guid>
 
 					<description><![CDATA[PG &#124; 1h 33min &#124; Adventure, Animation, Comedy, Family The Madagascar animals join a struggling European circus to get back to New York, but find themselves being pursued by a psychotic animal-control officer.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Madagascar: Escape 2 Africa (2008)</title>
-		<link>http://free-movies.to/animation/madagascar-escape-2-africa-2008/</link>
-		
-		<dc:creator><![CDATA[Balthazar]]></dc:creator>
-		<pubDate>Sat, 11 Oct 2025 06:00:09 +0000</pubDate>
-				<category><![CDATA[Animation]]></category>
-		<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[animation]]></category>
-		<category><![CDATA[Comedy]]></category>
-		<category><![CDATA[hevc]]></category>
-		<category><![CDATA[x265]]></category>
-		<guid isPermaLink="false">http://free-movies.to/?p=56247</guid>
-
-					<description><![CDATA[PG &#124; 1h 29min &#124; Adventure, Animation, Comedy The Madagascar animals fly back to New York City, but crash-land on an African nature reserve in Kenya, where they meet others of their own kind,&#46;&#46;&#46;]]></description>
 		
 		
 		
